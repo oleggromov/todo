@@ -8,6 +8,7 @@
 * [The style tag and React](https://medium.com/learnreact/the-style-tag-and-react-24d6dd3ca974#.hgt1lyo6u)
 
 About a week earlier
+* [The rise and fall of the Gopher protocol](https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol)
 * [Three Questions about Each Bug You Find](http://multicians.org/thvv/threeq.html), by Tom Van Vleck
 * [Orthogonality and the DRY principle](http://www.artima.com/intv/dry.html), by Bill Venners — a long-read!
 * [The 12 Most Controversial Facts in Mathematics](http://www.businessinsider.com/the-most-controversial-math-problems-2013-3/#), via one of the mathematics publics on Facebook
