@@ -1,3 +1,6 @@
+2016-08-17
+* [Forget technical debt — here's how to build technical wealth] via [@vitkarpov](https://twitter.com/vitkarpov/status/765807090766143491)
+
 2016-08-15
 * [Sex and Our Psycological Needs](https://markmanson.net/sex-and-our-psychological-needs), by Mark Manson
 
