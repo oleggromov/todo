@@ -1,5 +1,7 @@
-2016-08-15
+2016-08-17
+* [Make Better Sofware](https://blog.fogcreek.com/make-better-software-magazine/), by Joel Spolsky
 
+2016-08-15
 * **Superintelligence**, by Nick Bostrom
 * **The Master Algorithm**, by Pedro Domingos
 
