@@ -1,5 +1,6 @@
 2016-08-17
 * [Forget technical debt — here's how to build technical wealth](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/) via [@vitkarpov](https://twitter.com/vitkarpov/status/765807090766143491)
+* [7 bad programming ideas that work](http://www.infoworld.com/article/3106418/application-development/7-bad-programming-ideas-that-work.html)
 
 2016-08-15
 * [Sex and Our Psycological Needs](https://markmanson.net/sex-and-our-psychological-needs), by Mark Manson
